@@ -15,6 +15,9 @@ I’m passionate about using data to solve problems and help companies make smar
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=databricks&logoColor=white" alt="Statistics" />
+   <!-- Figma -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
   <br><br>
 
   ##  Skills
